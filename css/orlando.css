@@ -288,6 +288,7 @@ footer .row-cinza-claro{
 	height: 200px;
 	background-color: #171F26;
 }
+// ajusta as propriedades da linha horizontal
 footer .row-cinza-escuro{
 	height: 60px;
 	background-color: #11171D;
@@ -304,6 +305,7 @@ footer .text-roxo{
 	font-weight: bold;
 	font-size: 14px;
 }
+// define o tamanho do logo em pixels
 footer .logotipo{
 	margin-top: 28px;
 }
@@ -384,6 +386,7 @@ footer .list-socials i{
 	font-size: 16px;
 	margin: 7px auto;
 }
+//define a largura para ocupar 605 da tela
 video {
 	width: 60%
 }
